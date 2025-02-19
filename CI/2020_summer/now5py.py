@@ -18,7 +18,6 @@ def main():
     res = []
     with open('data5.txt', 'r') as f:
         arr = f.read().split()
-    print(arr)
     for c in arr:
         c= int(c)
         m = pow(c, d, n)
@@ -29,8 +28,10 @@ def main():
             m -= b[3 - i]
             m = m // 256
         for i in range(0, 4):
-            res.append(hex(b[i]))
-    print(res)
+            res.append(b[i])
+    with open('data5ans.txt', 'wb') as f:
+        for num in res:
+            f.write(bytes([num]))
 
 if __name__ == "__main__":
     main()
