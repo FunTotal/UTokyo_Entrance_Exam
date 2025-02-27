@@ -1,0 +1,4 @@
+e(0) pixel: (0 0 0), index 302362
+e(1) pixel: (88 88 88), index 30632
+e(2) pixel: (124 124 124), index 338140
+e(3) pixel: (155 155 155), index 1111164
