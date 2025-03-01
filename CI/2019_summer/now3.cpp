@@ -19,8 +19,6 @@ int cal(int a, int b, int c) {
 void solve() {
     ifstream fin("E:/UTokyo_Entrance_Exam/CI/2019_summer/image1.txt", ios::in);
     ofstream fout("E:/UTokyo_Entrance_Exam/CI/2019_summer/ans3.txt", ios::out);
-    // freopen("E:/UTokyo_Entrance_Exam/CI/2019_summer/image1.txt", "r", stdin);
-    // if (!fin.is_open()) assert(0);
     vector<tii> vec;
     int num1, num2, num3;
     vector<Node> vec2;

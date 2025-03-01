@@ -1,0 +1,3 @@
+max ave = 8.7143
+min ave = 2.2857
+sum of ave = 77.0000

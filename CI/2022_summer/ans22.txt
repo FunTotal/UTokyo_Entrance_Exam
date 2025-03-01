@@ -1,0 +1,2 @@
+file names : E:/UTokyo_Entrance_Exam/CI/2022_summer/data_forder/infections.txt and E:/UTokyo_Entrance_Exam/CI/2022_summer/data_forder/infections2.txt
+their scores are 0
